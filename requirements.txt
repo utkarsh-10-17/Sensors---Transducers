@@ -1,0 +1,6 @@
+# requirements.txt
+
+ESP32 board support (via Boards Manager)
+DHT sensor library (if using DHT11/DHT22)
+Adafruit Unified Sensor library
+NewPing library (for HC-SR04, optional)
